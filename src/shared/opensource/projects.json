@@ -1,0 +1,98 @@
+{
+    "data": [
+        {
+            "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+            "name": "SenaPortfolio",
+            "createdAt": "2020-11",
+            "url": "https://github.com/Senakbulut/SenaPortfolio.github.io",
+            "description": "The complete portfolio website hosted using github pages (gh-pages). Visit the website here : ",
+            "isFork": false,
+            "languages": [
+                {
+                    "name": "HTML",
+                    "iconifyClass": "logos-html-5"
+                },
+                {
+                    "name": "CSS",
+                    "iconifyClass": "logos-css-3"
+                },
+                {
+                    "name": "JavaScript",
+                    "iconifyClass": "logos-javascript"
+                },
+                {
+                    "name":"ReactJS",
+                    "iconifyClass":"logos-react"
+                }
+            ]
+        },
+        {
+            "id": "MDEwOlJlcG9zaXRvcnkyNjkwNzUwMjM=",
+            "name": "website-design",
+            "createdAt": "2020",
+            "url": "https://github.com/Senakbulut/website-design",
+            "description": "There are different website designs with both responsive and static features. You can visit project by:",
+            "isFork": false,
+            "languages": [
+                {
+                    "name": "HTML",
+                    "iconifyClass": "logos-html-5"
+                },
+                {
+                    "name": "CSS",
+                    "iconifyClass": "logos-css-3"
+                }
+            ]
+        },
+        {
+            "id": "MDEwOlJlcG9zaXRvcnkyNzM1MTI1NTE=",
+            "name": "Animations",
+            "createdAt": "2020",
+            "url": "https://github.com/Senakbulut/Animations",
+            "description": "There are different animations made with CSS and Javascript.You can visit project by:",
+            "isFork": false,
+            "languages": [
+                {
+                    "name": "HTML",
+                    "iconifyClass": "logos-html-5"
+                },
+                {
+                    "name": "CSS",
+                    "iconifyClass": "logos-css-3"
+                },
+                {
+                    "name":"JavaScript",
+                    "iconifyClass":"logos-javascript"
+                }
+            ]
+        },
+        {
+            "id": "MDEwOlJlcG9zaXRvcnkxNTU5NTE3NTk=",
+            "name": "Cpp_projects",
+            "createdAt": "2019",
+            "url": "https://github.com/Senakbulut/Cpp_projects",
+            "description": "Different projects made with C ++. You can visit project by:",
+            "isFork": false,
+            "languages": [
+                {
+                    "name": "C++",
+                    "iconifyClass": "logos-c-plusplus"
+                }
+            ]
+        },
+        {
+            "id": "MDEwOlJlcG9zaXRvcnkyMDIxNDc4ODA=",
+            "name": "C_projects",
+            "createdAt": "2018",
+            "url": "https://github.com/Senakbulut/C_projects",
+            "description": "Different projects made with C. You can visit project by:",
+            "isFork": false,
+            "languages": [
+                {
+                    "name": "C",
+                    "iconifyClass": "logos-c"
+                }
+            ]
+        }
+    ]
+}
