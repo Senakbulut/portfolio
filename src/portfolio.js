@@ -100,6 +100,13 @@ const skills = {
           },
         },
         {
+          skillName: "VueJS",
+          fontAwesomeClassname: "simple-icons:vue",
+          style: {
+            color: "#61DAFB",
+          },
+        },
+        {
           skillName: "NPM",
           fontAwesomeClassname: "simple-icons:npm",
           style: {
@@ -185,6 +192,13 @@ const skills = {
             color: "#000000",
           },
         },
+        {
+          skillName: "Adobe Dimension",
+          fontAwesomeClassname: "simple-icons:adobedimension",
+          style: {
+            color: "#000000",
+          },
+        },
       ],
     },
   ],
@@ -239,7 +253,7 @@ const degrees = {
       duration: "2016 - Present",
       descriptions: [
         "⚡ I am a 4th grade student in computer engineering at Karadeniz Technical University.",
-        "⚡ I learned C and C ++ languages at the university.",
+        
       ],
       website_link: "https://www.ktu.edu.tr",
     },
@@ -298,7 +312,7 @@ const experience = {
   title: "Experience",
   subtitle: "Internship and Volunteership",
   description:
-    "I am interested in Front End, but I did an internship on computer networks in the summer of 3rd grade. During this internship period, I learned about networks, which are an important part of the computer world, and made various applications. And I worked as a volunteer communication coordinator in KTU Artificial Intelligence Club.",
+    "I am interested in Front End, but I did an internship in computer networks in the summer of 3rd grade. During this internship, I learned about networks, which are an important part of the computer world, and made various applications. In the 4th grade, I did an internship on Frontend, which is my field. I worked with the Vue Js framework. And I worked as a volunteer communication coordinator at KTU Artificial Intelligence Club.",
   header_image_path: "work.jpg",
   sections: [
     // {
@@ -353,6 +367,17 @@ const experience = {
             "I have made various projects and presentations in the field of networking on Cisco packet tracer, Docker and Wireshark.",
           color: "#ee3c26",
         },
+        {
+          title: "Front End Development",
+          company: "Foreks Digital Solutions",
+          company_url: "https://www.foreks.com/",
+          logo_path: "foreks.jpg",
+          duration: "February 2021 - March 2021",
+          location: "İstanbul",
+          description:
+            "I made a front end project with Vue Js and had the opportunity to get to know the CSS grid structure more closely.",
+          color: "#ee3c26",
+        }
       ],
     },
     {
@@ -377,7 +402,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "I made projects on C and C ++ with the information I learned at university. Then I started to make projects that would improve myself on Front End, which is my field. I made various website designs and animations.",
+    "I design and code a website, work with animations. Also, I'm doing new projects with React Js library and Vue Js framework. I am working with javascript algorithms.",
   avatar_image_path: "calıs.svg",
 };
 
